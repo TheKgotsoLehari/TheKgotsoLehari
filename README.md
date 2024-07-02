@@ -7,7 +7,7 @@ Data & System Enthusiast
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [leharikgotso@gmail.com](mailto:leharikgotso@gmail.com)
 
-### Skills
+### Tech Stack & Skills
 
 
 <p align="left">
