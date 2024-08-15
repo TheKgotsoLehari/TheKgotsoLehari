@@ -6,6 +6,8 @@ Data & System Enthusiast
 
 I am a passionate and driven final-year BCom Informatics student at the University of Pretoria, specializing in Information Systems with a focus on Statistics. With a solid foundation in data analysis, software development, and system analysis, I thrive on leveraging data to create meaningful business insights and solutions. My experience spans various projects, from analyzing customer reviews and sales data to developing web and mobile applications.I am eager to apply my diverse skill set to solve complex problems, drive innovation, and contribute to impactful decision-making across all industries.
 
+"Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
+
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [leharikgotso@gmail.com](mailto:leharikgotso@gmail.com)
 
