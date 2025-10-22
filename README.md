@@ -3,8 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data & System Enthusiast
 ---------------------
+I am a graduate process engineer within the Chief Operating Office (COO) at First National Bank with a strong focus on leveraging data to drive operational efficiency and business performance. My expertise lies in process mapping, data visualization, and performance tracking, with hands-on experience using Power BI, SQL, and Excel to deliver actionable insights. 
 
-I am a passionate and driven final-year BCom Informatics student at the University of Pretoria, specializing in Information Systems with a focus on Statistics. With a solid foundation in data analysis, software development, and system analysis, I thrive on leveraging data to create meaningful business insights and solutions. My experience spans various projects, from analyzing customer reviews and sales data to developing web and mobile applications.I am eager to apply my diverse skill set to solve complex problems, drive innovation, and contribute to impactful decision-making across all industries.
+I specialize in identifying process inefficiencies through data analysis, defining business requirements, and supporting change initiatives that improve quality, reduce costs, and enhance productivity My professional objective is to continue growing in environments that value innovation, collaboration, and operational excellence, contributing to business success through optimized processes and actionable insights.
+
 
 "Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
 
