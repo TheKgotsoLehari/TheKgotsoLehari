@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data & System Enthusiast
 ---------------------
-I am a graduate process engineer within the Chief Operating Office (COO) at First National Bank with a strong focus on leveraging data to drive operational efficiency and business performance. My expertise lies in process mapping, data visualization, and performance tracking, with hands-on experience using Power BI, SQL, and Excel to deliver actionable insights. 
+I am a Process Analyst within the Chief Operating Office (COO) at First National Bank with a strong focus on leveraging data to drive operational efficiency and business performance. My expertise lies in process mapping, data visualization, and performance tracking, with hands-on experience using Power BI, SQL, and Excel to deliver actionable insights. 
 
 I specialize in identifying process inefficiencies through data analysis, defining business requirements, and supporting change initiatives that improve quality, reduce costs, and enhance productivity My professional objective is to continue growing in environments that value innovation, collaboration, and operational excellence, contributing to business success through optimized processes and actionable insights.
 
